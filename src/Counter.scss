@@ -1,0 +1,6 @@
+.page-link {
+  @apply text-white uppercase text-base;
+  &:hover {
+    @apply text-white/70
+  }
+}
